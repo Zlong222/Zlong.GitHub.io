@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Zlong_Blog",
     "description": "",
-    "home_page_url": "https://Zlong.GitHub.io",
-    "feed_url": "https://Zlong.GitHub.io/feed.json",
+    "home_page_url": "https://zlong-git-hub-io.vercel.app",
+    "feed_url": "https://zlong-git-hub-io.vercel.app/feed.json",
     "user_comment": "",
     "author": {
         "name": "Zlong"
     },
     "items": [
         {
-            "id": "https://Zlong.GitHub.io/111.html",
-            "url": "https://Zlong.GitHub.io/111.html",
+            "id": "https://zlong-git-hub-io.vercel.app/111.html",
+            "url": "https://zlong-git-hub-io.vercel.app/111.html",
             "title": "111",
             "summary": "111",
             "content_html": "<p>111</p>",
