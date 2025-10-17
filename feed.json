@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Zlong_Blog",
     "description": "",
-    "home_page_url": "https://blog.zlong.cn",
-    "feed_url": "https://blog.zlong.cn/feed.json",
+    "home_page_url": "https://Zlong.GitHub.io",
+    "feed_url": "https://Zlong.GitHub.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Zlong"
     },
     "items": [
         {
-            "id": "https://blog.zlong.cn/111.html",
-            "url": "https://blog.zlong.cn/111.html",
+            "id": "https://Zlong.GitHub.io/111.html",
+            "url": "https://Zlong.GitHub.io/111.html",
             "title": "111",
             "summary": "111",
             "content_html": "<p>111</p>",

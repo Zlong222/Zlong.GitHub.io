@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Zlong_Blog</title>
-    <link href="https://blog.zlong.cn/feed.xml" rel="self" />
-    <link href="https://blog.zlong.cn" />
+    <link href="https://Zlong.GitHub.io/feed.xml" rel="self" />
+    <link href="https://Zlong.GitHub.io" />
     <updated>2025-10-17T19:38:28+08:00</updated>
     <author>
         <name>Zlong</name>
     </author>
-    <id>https://blog.zlong.cn</id>
+    <id>https://Zlong.GitHub.io</id>
 
     <entry>
         <title>111</title>
         <author>
             <name>Zlong</name>
         </author>
-        <link href="https://blog.zlong.cn/111.html"/>
-        <id>https://blog.zlong.cn/111.html</id>
+        <link href="https://Zlong.GitHub.io/111.html"/>
+        <id>https://Zlong.GitHub.io/111.html</id>
 
         <updated>2025-10-17T19:38:28+08:00</updated>
             <summary>
