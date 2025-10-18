@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://zlong-git-hub-io.vercel.app/sitemap.xml
+Sitemap: https://blog.zlong222.top/sitemap.xml
