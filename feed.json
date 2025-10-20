@@ -10,18 +10,60 @@
     },
     "items": [
         {
-            "id": "https://blog.zlong222.top/111.html",
-            "url": "https://blog.zlong222.top/111.html",
-            "title": "111",
-            "summary": "111",
-            "content_html": "<p>111</p>",
+            "id": "https://blog.zlong222.top/zlongde-zuo-pin-ji-fei-niao.html",
+            "url": "https://blog.zlong222.top/zlongde-zuo-pin-ji-fei-niao.html",
+            "title": "Zlong的作品集--飞鸟",
+            "summary": "纯Lua编写 链接: https://pan.baidu.com/s/1bgBv0GgNhfuywiaTiYxlZw?pwd=2887 提取码: 2887",
+            "content_html": "<p>纯Lua编写</p>\n<p>链接: https://pan.baidu.com/s/1bgBv0GgNhfuywiaTiYxlZw?pwd=2887 提取码: 2887</p>",
             "author": {
                 "name": "Zlong"
             },
             "tags": [
             ],
-            "date_published": "2025-10-17T19:38:28+08:00",
-            "date_modified": "2025-10-17T19:38:28+08:00"
+            "date_published": "2025-10-20T10:55:10+08:00",
+            "date_modified": "2025-10-20T10:55:10+08:00"
+        },
+        {
+            "id": "https://blog.zlong222.top/zlongde-zuo-pin-ji-qian-jinxiao-qi-shi.html",
+            "url": "https://blog.zlong222.top/zlongde-zuo-pin-ji-qian-jinxiao-qi-shi.html",
+            "title": "Zlong的作品集--前进！小骑士",
+            "summary": "本次演示为片段演示，分为3C，关卡，UI等部分，每个部分有若干小视频。 作品演示链接：https://pan.baidu.com/s/1-sdatouPI5ltdfQufum6_g?pwd=2887 提取码: 2887 DEMO链接：https://pan.baidu.com/s/1J9H1fAUItfMcXDSWm0GeRA 提取码: 2887",
+            "content_html": "<p>本次演示为片段演示，分为3C，关卡，UI等部分，每个部分有若干小视频。</p>\n<p>作品演示链接：https://pan.baidu.com/s/1-sdatouPI5ltdfQufum6_g?pwd=2887 提取码: 2887</p>\n<p>DEMO链接：https://pan.baidu.com/s/1J9H1fAUItfMcXDSWm0GeRA 提取码: 2887</p>",
+            "author": {
+                "name": "Zlong"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-20T10:54:43+08:00",
+            "date_modified": "2025-10-20T10:54:43+08:00"
+        },
+        {
+            "id": "https://blog.zlong222.top/zlongde-you-xi-ce-ping-zhan-chui-40kxing-ji-zhan-shi-2.html",
+            "url": "https://blog.zlong222.top/zlongde-you-xi-ce-ping-zhan-chui-40kxing-ji-zhan-shi-2.html",
+            "title": "Zlong的游戏测评--战锤40K：星际战士2",
+            "summary": "7.5/10 好玩，非战锤粉丝，在玩之前去达奇上校那观看了一部分40k剧情，大概在野兽战争，所以这里只是从游戏的角度去描述。 首先在虫潮的表现上，大量的泰伦虫族蜂拥而上很壮观，我是3060笔记本1080p中画质，没有什么大幅度掉帧的情况； 其次在剧情上短而精，虽然仅有7小时的主线时长，但是讲了一个完整的故事，节奏紧凑，不拖沓，最后和同事互相理解也不算突兀，而且还可以在主线的同时，以旁观者视角游玩，观赏主角的nb表现； 最后我说个比较让我烦恼的点，就是字体，不知道什么情况有虚影，我看论坛里很多人也反馈这个情况，看着很糊。 希望出第三部可以调整这个问题，还有尽可能添加一些剧情。",
+            "content_html": "<p>7.5/10</p>\n<p>好玩，非战锤粉丝，在玩之前去达奇上校那观看了一部分40k剧情，大概在野兽战争，所以这里只是从游戏的角度去描述。</p>\n<p>首先在虫潮的表现上，大量的泰伦虫族蜂拥而上很壮观，我是3060笔记本1080p中画质，没有什么大幅度掉帧的情况；</p>\n<p>其次在剧情上短而精，虽然仅有7小时的主线时长，但是讲了一个完整的故事，节奏紧凑，不拖沓，最后和同事互相理解也不算突兀，而且还可以在主线的同时，以旁观者视角游玩，观赏主角的nb表现；</p>\n<p>最后我说个比较让我烦恼的点，就是字体，不知道什么情况有虚影，我看论坛里很多人也反馈这个情况，看着很糊。</p>\n<p>希望出第三部可以调整这个问题，还有尽可能添加一些剧情。</p>\n<p><img loading=\"lazy\" title=\"\" src=\"http://113.44.215.92/db/upload/202509/202509141108390.jpg\" alt=\"\" width=\"\" height=\"\" data-is-external-image=\"true\"></p>",
+            "author": {
+                "name": "Zlong"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-20T10:54:18+08:00",
+            "date_modified": "2025-10-20T10:54:18+08:00"
+        },
+        {
+            "id": "https://blog.zlong222.top/you-xi-mo-zu-de-shi-yong-fang-fa-hei-ye-jun-lin-vins.html",
+            "url": "https://blog.zlong222.top/you-xi-mo-zu-de-shi-yong-fang-fa-hei-ye-jun-lin-vins.html",
+            "title": "游戏模组的使用方法--黑夜君临--Vins",
+            "summary": "模组原址： https://www.nexusmods.com/eldenringnightreign/mods/287 度盘链接： https://pan.baidu.com/s/1Wv9-Ttc0VKo6CbZQpA0CPQ 提取码: 2887 2025.10.8更新 https://pan.baidu.com/s/1sfcLlf6ysOLoIA-9g1jL6w 提取码: 2887 使用方法： 1.安装me3_installer.exe 2.ELDEN VINS NIGHTREIGN-287-1-2-1-1759108947 在任意文件夹内解压ELDEN VINS 3.解压Seamless Coop，并将其放入第2步的文件夹内 4.Skin Overhaul X Elden Vins Nightreign-289-1-8-2-1-2-1-1759126465 将下载存档的所有内容复制到 Elden Vins Nightreign 的 “mod” 文件夹中， 如果出现提示，则覆盖/替换文件。 之后，请务必打开\"mod/parts\"文件夹并运行 \"01_Online\" 文件。（皮肤） 5.VINS X Skin Overhaul Chn-366-1-2-1-1759566778 将解压后的文件放到\"/mod/msg\"内。（汉化） 6.您可以使用记事本或文本编辑器打开 \"mod/dll/NightreignFPSFOV/config.ini\" 来编辑&hellip;",
+            "content_html": "<p>模组原址：</p>\n<p>https://www.nexusmods.com/eldenringnightreign/mods/287</p>\n<p>度盘链接：</p>\n<p>https://pan.baidu.com/s/1Wv9-Ttc0VKo6CbZQpA0CPQ 提取码: 2887</p>\n<p>2025.10.8更新</p>\n<p>https://pan.baidu.com/s/1sfcLlf6ysOLoIA-9g1jL6w 提取码: 2887</p>\n<p>使用方法：</p>\n<p>1.安装me3_installer.exe</p>\n<p>2.ELDEN VINS NIGHTREIGN-287-1-2-1-1759108947</p>\n<p>在任意文件夹内解压ELDEN VINS</p>\n<p>3.解压Seamless Coop，并将其放入第2步的文件夹内</p>\n<p>4.Skin Overhaul X Elden Vins Nightreign-289-1-8-2-1-2-1-1759126465</p>\n<p>将下载存档的所有内容复制到 Elden Vins Nightreign 的 “mod” 文件夹中，</p>\n<p>如果出现提示，则覆盖/替换文件。</p>\n<p>之后，请务必打开\"mod/parts\"文件夹并运行 \"01_Online\" 文件。（皮肤）</p>\n<p>5.VINS X Skin Overhaul Chn-366-1-2-1-1759566778</p>\n<p>将解压后的文件放到\"/mod/msg\"内。（汉化）</p>\n<p>6.您可以使用记事本或文本编辑器打开</p>\n<p>\"mod/dll/NightreignFPSFOV/config.ini\"</p>\n<p>来编辑 FPS 锁定以匹配显示器的频率。</p>\n<p>7.点击.me3后缀文件即可启动</p>\n<p>更新方法：</p>\n<p>直接覆盖即可</p>\n<p>注：</p>\n<p>仅为收藏作用，并非商用。</p>",
+            "author": {
+                "name": "Zlong"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-20T10:53:52+08:00",
+            "date_modified": "2025-10-20T10:53:52+08:00"
         }
     ]
 }
